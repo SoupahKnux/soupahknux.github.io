@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(11, 11, 11);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: cyan;
+}
+
+.box {
+    background-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    color: white;
+    width: 400px;
+    height: auto;
+    margin: auto;
+    margin-top: 10%;
+    text-align: center;
+    padding: 10px;
+}
