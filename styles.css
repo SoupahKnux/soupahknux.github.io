@@ -34,6 +34,7 @@ a {
     text-align: center;
     padding: 10px;
     display: inline-block;
+    margin: auto;
 }
 
 .otherbox {
@@ -49,4 +50,5 @@ a {
     text-align: center;
     padding: 10px;
     display: inline-block;
+    margin: auto;
 }
