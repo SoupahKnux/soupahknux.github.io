@@ -21,7 +21,7 @@ a {
     padding: 10px;
 }
 
-.mainbox {
+.aboutme {
     background-color: rgb(60, 0, 0);
     border-color: red;
     border-style: solid;
@@ -29,14 +29,17 @@ a {
     color: white;
     width: 600px;
     height: auto;
-    margin-left: 200px;
+    margin-left: 10%;
     margin-top: 10%;
+    margin-right: 10%;
     text-align: center;
     padding: 10px;
-    display: inline-block;
+    float: left;
+    line-height: 120%;
+    
 }
 
-.otherbox {
+.newsblock {
     background-color: rgb(60, 0, 0);
     border-color: red;
     border-style: solid;
@@ -44,9 +47,31 @@ a {
     color: white;
     width: 300px;
     height: auto;
-    margin-left: 50px;
+    margin-right: 10%;
     margin-top: 10%;
     text-align: center;
     padding: 10px;
-    display: inline-block;
+    float: right;
+    
+}
+
+.pfp {
+    float: left;
+    margin: 10px;
+}
+
+.topbar {
+    width:inherit;
+    height: auto;
+    padding: 10px;
+    background-color: black;
+    border-color: white;
+    border-bottom: solid;
+    text-align: center;
+    margin: -8px;
+}
+
+.newsblockinternal {
+    text-align: center;
+
 }
