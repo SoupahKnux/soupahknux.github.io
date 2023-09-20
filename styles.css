@@ -30,30 +30,31 @@ a {
     color: white;
     width: 600px;
     height: auto;
-    margin-left: 10%;
-    margin-top: 10%;
-    margin-right: 10%;
+    margin-left: auto;
+    margin-top: 5%;
+    margin-right: auto;
     text-align: center;
     padding: 10px;
-    float: left;
+    
     line-height: 120%;
     
 }
 
 .newsblock {
-    background-color: rgb(60, 0, 0);
-    border-color: red;
+    background-image: url("images/newsblock.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-color: white;
     border-style: solid;
     border-radius: 10px;
     color: white;
-    width: 300px;
-    height: auto;
-    margin-right: 10%;
-    margin-top: 10%;
-    text-align: center;
-    padding: 10px;
-    float: right;
+    width: 700px;
+    height: 140px;
+    margin-left: auto;
+    margin-top: 1%;
+    margin-right: auto;
     
+    padding: 10px;
 }
 
 .pfp {
@@ -73,6 +74,7 @@ a {
 }
 
 .newsblockinternal {
-    text-align: center;
+    
+    margin-top: auto;
 
 }
