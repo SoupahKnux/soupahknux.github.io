@@ -33,6 +33,10 @@ a {
     padding: 10px;
 }
 
+.discord a {
+    color: #1e9dfc;
+}
+
 .reddit {
     background-color:#1a1a1b;
     border-color: #ff4500;
@@ -45,4 +49,8 @@ a {
     margin-top: 5%;
     text-align: center;
     padding: 10px;
+}
+
+.reddit a {
+    color: #4fbcff;
 }
