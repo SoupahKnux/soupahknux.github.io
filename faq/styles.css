@@ -6,3 +6,15 @@ body {
     text-align: center;
     font-size:xx-large;
 }
+
+h1 {
+    font-size:200%;
+    color: red;
+}
+
+.box {
+    color: black;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
